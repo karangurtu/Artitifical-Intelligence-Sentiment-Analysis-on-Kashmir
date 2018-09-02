@@ -1,0 +1,3 @@
+D:\7th semester\ai\project\kashmirtrainingset.xlsx
+D:\7th semester\ai\project\kashmirtestset.xlsx
+D:\7th semester\ai\project

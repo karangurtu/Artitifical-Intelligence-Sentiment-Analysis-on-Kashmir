@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="spec.xml">
+<entry key="spec_name" type="xstring" value="default"/>
+<entry key="number_columns" type="xint" value="5"/>
+<config key="column_spec_0">
+<entry key="column_name" type="xstring" value="tweet"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain">
+<config key="possible_values">
+<entry key="array-size" type="xint" value="41"/>
+<config key="0">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="WATCH | @JKMinFCSCATA @chzulfkarali today said the government has taken path-breaking initiatives for providing quaâ€¦ https://t.co/1wNOgqjpzB"/>
+</config>
+</config>
+<config key="1">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="People of occupied Kashmir are subjected to illegal Indian occupation: PM%%00010https://t.co/rqmd3LKHLX https://t.co/FViH7WtdQd"/>
+</config>
+</config>
+<config key="2">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="People will never be happy until the last oppressor is hung on the guts of the last collaborator.%%00010%%00010#Kashmir https://t.co/V8sQP5tb48"/>
+</config>
+</config>
+<config key="3">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="RT @BahadurManmohan: INTERESTING indeed if true. Musharraf says that he is in talks with Indians on the Kashmir issue. Wonder who??  https:â€¦"/>
+</config>
+</config>
+<config key="4">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="RT @INDSNM: India doesnâ€™t belong.... but whether Kashmir belongs to a particular religion Mr Farooq Abdullah? Your double speaks are exposeâ€¦"/>
+</config>
+</config>
+<config key="5">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Kya aap Kashmir me un dukhiyari maaon jinke bachche nabina kar diye gaye hain,  unki raushani lauta sakte hain? Unâ€¦ https://t.co/kvdbn3OIv6"/>
+</config>
+</config>
+<config key="6">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="#Kashmir%%00010#Pakistan is so desperate%%00010To play Cricket with #India%%00010Despite continuous refusal%%00010By @BCCI , as if It's queâ€¦ https://t.co/OMO0bIvQyP"/>
+</config>
+</config>
+<config key="7">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="People will never be happy until the last oppressor is hung on the guts of the last collaborator.%%00010%%00010#Kashmir https://t.co/PYDa5qR0WN"/>
+</config>
+</config>
+<config key="8">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="@OmarAbdullah Pakistani terrorists in kashmir only target innocent."/>
+</config>
+</config>
+<config key="9">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="French Journalist Arrested in Kashmir Released on Bail https://t.co/XpQBJlrLL5"/>
+</config>
+</config>
+<config key="10">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="tweet"/>
+</config>
+</config>
+<config key="11">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Palestinian issue is on par with Kashmir: Pakistan official https://t.co/jgJ7RvK5XB"/>
+</config>
+</config>
+<config key="12">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="RT @SiddharthAulia: Saudi Arabia's decision to reopen cinema halls sparks similar debate sparks in J-K https://t.co/RKWPzxTERR"/>
+</config>
+</config>
+<config key="13">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="RT @abhijitmajumder: In â€˜secularâ€™ India, a place named #Kashmir is more Islamised and regressive than Saudi Arabia in some ways. Amazing, iâ€¦"/>
+</config>
+</config>
+<config key="14">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="https://t.co/Cg4catarWq"/>
+</config>
+</config>
+<config key="15">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="RT @AbidiAsfaq: Terrorist Yasin Malik along with terrorists of his organization JKLF' raped &amp;amp; slaughtered hundreds of Hindus women..That tiâ€¦"/>
+</config>
+</config>
+<config key="16">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="RT @LostKashmirHist: Misra, the mother of Shabir Ahmed Ghasi, 21, holds his photo. Shabir was selling fruits on January 22, 2000 when the Bâ€¦"/>
+</config>
+</config>
+<config key="17">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="RT @WithKashmir_: More and more people are speaking out against the #harassment they faced anytime in their lives. %%00010Send yours at https://tâ€¦"/>
+</config>
+</config>
+<config key="18">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="RT @DoC_GoI: Pure silk carpets of Kashmir are such high quality that they're woven with 324-600 knots per square inch. #IndiaEXIM https://tâ€¦"/>
+</config>
+</config>
+<config key="19">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="RT @Swamy39: New photos show terror supporter Kashmir Congress leader Salman Nizami was behind the JNU protests https://t.co/hOICoFFVka viaâ€¦"/>
+</config>
+</config>
+<config key="20">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="RT @HerNameIs_Bea: Today they took my Son.%%00010%%00010What could I now do with the broken pieces of me, without him? %%00010%%00010Every mothers nightmare is reaâ€¦"/>
+</config>
+</config>
+<config key="21">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="RT @manakgupta: Now here is a sign that Cinema halls may finally become a reality in Kashmir https://t.co/vNBEsOMMpq"/>
+</config>
+</config>
+<config key="22">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="RT @alam_mujaid: Militants often come to our village and forces people to join militancy.ðŸ˜ %%00010You can see terrifying faces of our mothers andâ€¦"/>
+</config>
+</config>
+<config key="23">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="RT @SoniaGandhi_FC: You're lucky to be from such a beautiful place. #Kashmir #Heaven ðŸŒ² https://t.co/r1yI8TnkjP"/>
+</config>
+</config>
+<config key="24">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="RT @TimesNow: Watch | 'NGT is repeatedly intervening into the religious matters of crores and crores of Hindus in Jammu and Kashmir', saysâ€¦"/>
+</config>
+</config>
+<config key="25">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="RT @iKaicer: &quot;He (shaheed tufail matoo) is buried at two places. His body is buried at the Martyrs Graveyard in Srinagar and the fragmentsâ€¦"/>
+</config>
+</config>
+<config key="26">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="RT @books_in_movies: 'History of Kashmir' (Tarikh-i-Kashmir of Saiyid Ali) â€” English translation with Historical Analysis â€” by Abdul Qaiyumâ€¦"/>
+</config>
+</config>
+<config key="27">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="RT @RadioPakistan: People of occupied Kashmir are subjected to illegal Indian occupation: PM%%00010https://t.co/rqmd3LKHLX https://t.co/FViH7WtdQd"/>
+</config>
+</config>
+<config key="28">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="RT @girishalva: &quot;Why Double Standard?&quot;%%00010%%00010NGT wants Silence Zone in Amarnath Shrine! No Mantras! &quot;Handful&quot; of ppl want to stop Hindu practiceâ€¦"/>
+</config>
+</config>
+<config key="29">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="RT @ShakilMadiha: Spirit of Azadi can never die. It is this spirit which encourages a common #kashmiri to face bullets without any weapon,â€¦"/>
+</config>
+</config>
+<config key="30">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Adjoining Gulpur is #Throtchi, famous for its #castle that was built in 1460. Gulpur is a town in #Kotli District,â€¦ https://t.co/mOAXj7zZAO"/>
+</config>
+</config>
+<config key="31">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="RT @Sudozai5: Pakistan does not recognize Israel as a country.So Israel you don't exist anywhere in #Pakistan.#Kashmir"/>
+</config>
+</config>
+<config key="32">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="RT @majorgauravarya: 5 soldiers missing in avalanche &amp;amp; heavy snowfall in Nowgam &amp;amp; Gurez sectors, Kashmir. Letâ€™s join the 5 families and thoâ€¦"/>
+</config>
+</config>
+<config key="33">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="@nujoom_tweets Tumlog sale sudharoge nahi  go in West Bengal and see mamata work or in kashmir"/>
+</config>
+</config>
+<config key="34">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="Picture of #Jaish militant operating in #Kashmir with new sophisticated American  assault rifle Goes Viral On Sociaâ€¦ https://t.co/b3qviLgnQw"/>
+</config>
+</config>
+<config key="35">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="RT @SuddhanSadaf30: Kashmir fight fr freedom. %%00010Frm small hamlets to towns, #Kashmiris yelling just one%%00010slogan aloud:'Hum kya chahtay?Aazadiâ€¦"/>
+</config>
+</config>
+<config key="36">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="#Kashmir%%000102nd ODI: Rohit Sharma's%%00010208* powers India to%%00010141-run victory over %%00010Sri Lanka.%%00010#Pakistan %%00010@TheRealPCBâ€¦ https://t.co/UmTef2rca4"/>
+</config>
+</config>
+<config key="37">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="RT @Paleosismolog: Distant view of deformed fluvial terrace surfaces at Chehla Bandi, north of Muzaffarabad. A flight of several terrace suâ€¦"/>
+</config>
+</config>
+<config key="38">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="RT @CMShehbaz: #OICSummit: Issues of Palestine &amp;amp; Kashmir remained a thorn in the heart of the founder of Pakistan, Muhammad Ali Jinnah ...â€¦"/>
+</config>
+</config>
+<config key="39">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="David Garrett - Kashmir ðŸŽ» #worldviolinday shout out to one of my favorite violinist @david_garrett â&#157;¤ï¸&#143;ðŸŽ»ðŸŽ¶ https://t.co/P4HFAjFxWe"/>
+</config>
+</config>
+<config key="40">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="RT @juned_wani: congrats sir Mr satish vimal for winning national award for your poetry. #Kashmir  proud of you.ðŸ™&#143;ðŸ™&#143;%%00010@ashokepandit @AskAnshulâ€¦"/>
+</config>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
+<config key="column_spec_1">
+<entry key="column_name" type="xstring" value="rating"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain">
+<config key="possible_values">
+<entry key="array-size" type="xint" value="5"/>
+<config key="0">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="neutral"/>
+</config>
+</config>
+<config key="1">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="great"/>
+</config>
+</config>
+<config key="2">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="awful"/>
+</config>
+</config>
+<config key="3">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="bad"/>
+</config>
+</config>
+<config key="4">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="good"/>
+</config>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
+<config key="column_spec_2">
+<entry key="column_name" type="xstring" value="Document"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.ext.textprocessing.data.filestore.DocumentBufferedFileStoreCell"/>
+</config>
+<config key="column_domain"/>
+<config key="column_properties">
+<entry key="Word Tokenizer" type="xstring" value="OpenNLP English WordTokenizer"/>
+</config>
+</config>
+<config key="column_spec_3">
+<entry key="column_name" type="xstring" value="Preprocessed Document"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.ext.textprocessing.data.filestore.DocumentBufferedFileStoreCell"/>
+</config>
+<config key="column_domain"/>
+<config key="column_properties"/>
+</config>
+<config key="column_spec_4">
+<entry key="column_name" type="xstring" value="rating (#1)"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+</config>
+<config key="column_domain">
+<config key="possible_values">
+<entry key="array-size" type="xint" value="1"/>
+<config key="0">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="bad"/>
+</config>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
+</config>

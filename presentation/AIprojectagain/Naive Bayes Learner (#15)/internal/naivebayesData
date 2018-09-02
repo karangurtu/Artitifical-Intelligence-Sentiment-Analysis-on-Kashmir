@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="naivebayesDataModel">
+<entry key="ClassColumnName" type="xstring" value="rating"/>
+<config key="ClassColumnType">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<entry key="is_null" type="xboolean" value="false"/>
+</config>
+<entry key="skipMissingVals" type="xboolean" value="true"/>
+<entry key="Threshold" type="xdouble" value="0.0"/>
+<config key="SkippedAttributes">
+<entry key="SkippedAttributesCounter" type="xint" value="1"/>
+<config key="SkippedAttributeData_0">
+<entry key="attributeName" type="xstring" value="tweet"/>
+<entry key="type" type="xstring" value="NominalModel"/>
+<entry key="skipMissingVals" type="xboolean" value="true"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" value="Too many values"/>
+<config key="data">
+<entry key="maxNoOfAttrs" type="xint" value="20"/>
+<entry key="noOfClasses" type="xint" value="4"/>
+<config key="attributeValues">
+<entry key="array-size" type="xint" value="20"/>
+<entry key="0" type="xstring" value="testing"/>
+<entry key="1" type="xstring" value="RT @SiddharthAulia: Saudi Arabia's decision to reopen cinema halls sparks similar debate sparks in J-K https://t.co/RKWPzxTERR"/>
+<entry key="2" type="xstring" value="WATCH | @JKMinFCSCATA @chzulfkarali today said the government has taken path-breaking initiatives for providing quaâ€¦ https://t.co/1wNOgqjpzB"/>
+<entry key="3" type="xstring" value="tweet"/>
+<entry key="4" type="xstring" value="RT @girishalva: &quot;Why Double Standard?&quot;%%00010%%00010NGT wants Silence Zone in Amarnath Shrine! No Mantras! &quot;Handful&quot; of ppl want to stop Hindu practiceâ€¦"/>
+<entry key="5" type="xstring" value="People of occupied Kashmir are subjected to illegal Indian occupation: PM%%00010https://t.co/rqmd3LKHLX https://t.co/FViH7WtdQd"/>
+<entry key="6" type="xstring" value="RT @LostKashmirHist: People will never be happy until the last oppressor is hung on the guts of the last collaborator.%%00010%%00010#Kashmir https://t.â€¦"/>
+<entry key="7" type="xstring" value="RT @ShakilMadiha: Spirit of Azadi can never die. It is this spirit which encourages a common #kashmiri to face bullets without any weapon,â€¦"/>
+<entry key="8" type="xstring" value="RT @BahadurManmohan: INTERESTING indeed if true. Musharraf says that he is in talks with Indians on the Kashmir issue. Wonder who??  https:â€¦"/>
+<entry key="9" type="xstring" value="RT @INDSNM: India doesnâ€™t belong.... but whether Kashmir belongs to a particular religion Mr Farooq Abdullah? Your double speaks are exposeâ€¦"/>
+<entry key="10" type="xstring" value="@atti_cus Amazing Haider could more or less get away portraying Indian occupation of Kashmir with such brutal honesty."/>
+<entry key="11" type="xstring" value="Kya aap Kashmir me un dukhiyari maaon jinke bachche nabina kar diye gaye hain,  unki raushani lauta sakte hain? Unâ€¦ https://t.co/kvdbn3OIv6"/>
+<entry key="12" type="xstring" value="RT @rifatabdullahh: Meet Pardeep Singh Dardi, Mass Com Student of Kashmir University. He is a great volunteer. Keeping plants ready for freâ€¦"/>
+<entry key="13" type="xstring" value="#Kashmir%%00010#Pakistan is so desperate%%00010To play Cricket with #India%%00010Despite continuous refusal%%00010By @BCCI , as if It's queâ€¦ https://t.co/OMO0bIvQyP"/>
+<entry key="14" type="xstring" value="People will never be happy until the last oppressor is hung on the guts of the last collaborator.%%00010%%00010#Kashmir https://t.co/PYDa5qR0WN"/>
+<entry key="15" type="xstring" value="explicit tweet"/>
+<entry key="16" type="xstring" value="French Journalist Arrested in Kashmir Released on Bail https://t.co/XpQBJlrLL5"/>
+<entry key="17" type="xstring" value="RT @CMShehbaz: #OICSummit: Issues of Palestine &amp;amp; Kashmir remained a thorn in the heart of the founder of Pakistan, Muhammad Ali Jinnah ...â€¦"/>
+<entry key="18" type="xstring" value="RT @manakgupta: Now here is a sign that Cinema halls may finally become a reality in Kashmir https://t.co/vNBEsOMMpq"/>
+<entry key="19" type="xstring" value="Palestinian issue is on par with Kashmir: Pakistan official https://t.co/jgJ7RvK5XB"/>
+</config>
+<config key="classValueData_0">
+<entry key="classValue" type="xstring" value="neutral"/>
+<entry key="noOfRows" type="xint" value="8"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<config key="attributeValues">
+<entry key="array-size" type="xint" value="8"/>
+<entry key="0" type="xstring" value="#Kashmir%%00010#Pakistan is so desperate%%00010To play Cricket with #India%%00010Despite continuous refusal%%00010By @BCCI , as if It's queâ€¦ https://t.co/OMO0bIvQyP"/>
+<entry key="1" type="xstring" value="testing"/>
+<entry key="2" type="xstring" value="@atti_cus Amazing Haider could more or less get away portraying Indian occupation of Kashmir with such brutal honesty."/>
+<entry key="3" type="xstring" value="RT @SiddharthAulia: Saudi Arabia's decision to reopen cinema halls sparks similar debate sparks in J-K https://t.co/RKWPzxTERR"/>
+<entry key="4" type="xstring" value="Palestinian issue is on par with Kashmir: Pakistan official https://t.co/jgJ7RvK5XB"/>
+<entry key="5" type="xstring" value="tweet"/>
+<entry key="6" type="xstring" value="explicit tweet"/>
+<entry key="7" type="xstring" value="RT @manakgupta: Now here is a sign that Cinema halls may finally become a reality in Kashmir https://t.co/vNBEsOMMpq"/>
+</config>
+<config key="attributeCounter">
+<entry key="array-size" type="xint" value="8"/>
+<entry key="0" type="xint" value="1"/>
+<entry key="1" type="xint" value="1"/>
+<entry key="2" type="xint" value="1"/>
+<entry key="3" type="xint" value="1"/>
+<entry key="4" type="xint" value="1"/>
+<entry key="5" type="xint" value="1"/>
+<entry key="6" type="xint" value="1"/>
+<entry key="7" type="xint" value="1"/>
+</config>
+</config>
+<config key="classValueData_1">
+<entry key="classValue" type="xstring" value="great"/>
+<entry key="noOfRows" type="xint" value="4"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<config key="attributeValues">
+<entry key="array-size" type="xint" value="4"/>
+<entry key="0" type="xstring" value="WATCH | @JKMinFCSCATA @chzulfkarali today said the government has taken path-breaking initiatives for providing quaâ€¦ https://t.co/1wNOgqjpzB"/>
+<entry key="1" type="xstring" value="RT @ShakilMadiha: Spirit of Azadi can never die. It is this spirit which encourages a common #kashmiri to face bullets without any weapon,â€¦"/>
+<entry key="2" type="xstring" value="RT @rifatabdullahh: Meet Pardeep Singh Dardi, Mass Com Student of Kashmir University. He is a great volunteer. Keeping plants ready for freâ€¦"/>
+<entry key="3" type="xstring" value="RT @BahadurManmohan: INTERESTING indeed if true. Musharraf says that he is in talks with Indians on the Kashmir issue. Wonder who??  https:â€¦"/>
+</config>
+<config key="attributeCounter">
+<entry key="array-size" type="xint" value="4"/>
+<entry key="0" type="xint" value="1"/>
+<entry key="1" type="xint" value="1"/>
+<entry key="2" type="xint" value="1"/>
+<entry key="3" type="xint" value="1"/>
+</config>
+</config>
+<config key="classValueData_2">
+<entry key="classValue" type="xstring" value="awful"/>
+<entry key="noOfRows" type="xint" value="6"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<config key="attributeValues">
+<entry key="array-size" type="xint" value="6"/>
+<entry key="0" type="xstring" value="People will never be happy until the last oppressor is hung on the guts of the last collaborator.%%00010%%00010#Kashmir https://t.co/PYDa5qR0WN"/>
+<entry key="1" type="xstring" value="People of occupied Kashmir are subjected to illegal Indian occupation: PM%%00010https://t.co/rqmd3LKHLX https://t.co/FViH7WtdQd"/>
+<entry key="2" type="xstring" value="French Journalist Arrested in Kashmir Released on Bail https://t.co/XpQBJlrLL5"/>
+<entry key="3" type="xstring" value="RT @girishalva: &quot;Why Double Standard?&quot;%%00010%%00010NGT wants Silence Zone in Amarnath Shrine! No Mantras! &quot;Handful&quot; of ppl want to stop Hindu practiceâ€¦"/>
+<entry key="4" type="xstring" value="RT @LostKashmirHist: People will never be happy until the last oppressor is hung on the guts of the last collaborator.%%00010%%00010#Kashmir https://t.â€¦"/>
+<entry key="5" type="xstring" value="tweet"/>
+</config>
+<config key="attributeCounter">
+<entry key="array-size" type="xint" value="6"/>
+<entry key="0" type="xint" value="1"/>
+<entry key="1" type="xint" value="1"/>
+<entry key="2" type="xint" value="1"/>
+<entry key="3" type="xint" value="1"/>
+<entry key="4" type="xint" value="1"/>
+<entry key="5" type="xint" value="1"/>
+</config>
+</config>
+<config key="classValueData_3">
+<entry key="classValue" type="xstring" value="bad"/>
+<entry key="noOfRows" type="xint" value="4"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<config key="attributeValues">
+<entry key="array-size" type="xint" value="3"/>
+<entry key="0" type="xstring" value="Kya aap Kashmir me un dukhiyari maaon jinke bachche nabina kar diye gaye hain,  unki raushani lauta sakte hain? Unâ€¦ https://t.co/kvdbn3OIv6"/>
+<entry key="1" type="xstring" value="RT @INDSNM: India doesnâ€™t belong.... but whether Kashmir belongs to a particular religion Mr Farooq Abdullah? Your double speaks are exposeâ€¦"/>
+<entry key="2" type="xstring" value="RT @CMShehbaz: #OICSummit: Issues of Palestine &amp;amp; Kashmir remained a thorn in the heart of the founder of Pakistan, Muhammad Ali Jinnah ...â€¦"/>
+</config>
+<config key="attributeCounter">
+<entry key="array-size" type="xint" value="3"/>
+<entry key="0" type="xint" value="1"/>
+<entry key="1" type="xint" value="2"/>
+<entry key="2" type="xint" value="1"/>
+</config>
+</config>
+</config>
+</config>
+</config>
+<config key="AttributeModelSection">
+<entry key="AttributeModelCounter" type="xint" value="1"/>
+<config key="AttributeModelData_0">
+<entry key="attributeName" type="xstring" value="rating"/>
+<entry key="type" type="xstring" value="ClassModel"/>
+<entry key="skipMissingVals" type="xboolean" value="true"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" isnull="true" value=""/>
+<config key="data">
+<entry key="totalNoOfRecords" type="xint" value="133"/>
+<entry key="maxNoOfClassValues" type="xint" value="20"/>
+<config key="classValues">
+<entry key="array-size" type="xint" value="5"/>
+<entry key="0" type="xstring" value="neutral"/>
+<entry key="1" type="xstring" value="great"/>
+<entry key="2" type="xstring" value="awful"/>
+<entry key="3" type="xstring" value="bad"/>
+<entry key="4" type="xstring" value="good"/>
+</config>
+<config key="classRecordCounter">
+<entry key="array-size" type="xint" value="5"/>
+<entry key="0" type="xint" value="28"/>
+<entry key="1" type="xint" value="21"/>
+<entry key="2" type="xint" value="17"/>
+<entry key="3" type="xint" value="49"/>
+<entry key="4" type="xint" value="18"/>
+</config>
+</config>
+</config>
+</config>
+</config>

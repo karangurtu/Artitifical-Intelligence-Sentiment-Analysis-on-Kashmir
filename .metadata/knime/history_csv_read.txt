@@ -1,0 +1,2 @@
+D:\7th semester\ai\project\kashmirtrainingset.csv
+D:\7th semester\ai\project\Trainset.csv

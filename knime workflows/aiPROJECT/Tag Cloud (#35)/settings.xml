@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="settings.xml">
+<entry key="node_file" type="xstring" value="settings.xml"/>
+<config key="flow_stack"/>
+<config key="internal_node_subsettings">
+<entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
+</config>
+<config key="model">
+<config key="allRows_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="allRows" type="xboolean" value="false"/>
+<config key="noOfRows_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="noOfRows" type="xint" value="2500"/>
+<config key="TermCol_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="TermCol" type="xstring" value="Term"/>
+<config key="ValCol_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="ValCol" type="xstring" value="TF rel"/>
+<config key="Ignore tags_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="Ignore tags" type="xboolean" value="true"/>
+<config key="Kind of TagCloud_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="Kind of TagCloud" type="xstring" value="InsideOut Table"/>
+<config key="ExportType_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="ExportType" type="xstring" value="PNG - Portable Network Graphics"/>
+<config key="Width_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="Width" type="xint" value="800"/>
+<config key="Height_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="Height" type="xint" value="600"/>
+<config key="Font value_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_font"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<config key="Font value">
+<entry key="fontFamily" type="xstring" value="SansSerif"/>
+<entry key="fontType" type="xint" value="0"/>
+<entry key="fontSize" type="xint" value="12"/>
+<entry key="fontColor" type="xint" value="-16777216"/>
+</config>
+<config key="Alpha value_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="Alpha value" type="xint" value="90"/>
+<config key="Bold value_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="Bold value" type="xint" value="0"/>
+<config key="Anti Aliasing_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="Anti Aliasing" type="xboolean" value="true"/>
+<config key="Background Color_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_color"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<config key="Background Color">
+<entry key="Red" type="xint" value="255"/>
+<entry key="Green" type="xint" value="255"/>
+<entry key="Blue" type="xint" value="255"/>
+<entry key="Alpha" type="xint" value="255"/>
+</config>
+</config>
+<entry key="customDescription" type="xstring" isnull="true" value=""/>
+<entry key="state" type="xstring" value="EXECUTED"/>
+<entry key="factory" type="xstring" value="org.knime.ext.textprocessing.nodes.view.tagcloud.outport.TagCloudNodeFactory"/>
+<entry key="node-name" type="xstring" value="Tag Cloud"/>
+<entry key="node-bundle-name" type="xstring" value="KNIME Textprocessing Plug-in"/>
+<entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.ext.textprocessing"/>
+<entry key="node-bundle-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
+<entry key="node-bundle-version" type="xstring" value="3.3.2.v201704041632"/>
+<entry key="node-feature-name" type="xstring" value="KNIME Textprocessing"/>
+<entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.ext.textprocessing.feature.group"/>
+<entry key="node-feature-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
+<entry key="node-feature-version" type="xstring" value="3.3.2.v201704041632"/>
+<config key="factory_settings"/>
+<entry key="name" type="xstring" value="Tag Cloud"/>
+<entry key="hasContent" type="xboolean" value="true"/>
+<entry key="isInactive" type="xboolean" value="false"/>
+<config key="ports">
+<config key="port_1">
+<entry key="index" type="xint" value="1"/>
+<entry key="port_spec_class" type="xstring" value="org.knime.core.node.port.image.ImagePortObjectSpec"/>
+<entry key="port_object_class" type="xstring" value="org.knime.core.node.port.image.ImagePortObject"/>
+<entry key="port_object_summary" type="xstring" value="PNG Image 804 x 593 with 112 KB"/>
+<entry key="port_spec_location" type="xstring" value="spec/spec.zip"/>
+<entry key="port_object_location" type="xstring" value="object/portobject.zip"/>
+<entry key="port_dir_location" type="xstring" value="port_1"/>
+</config>
+</config>
+<config key="filestores">
+<entry key="file_store_location" type="xstring" isnull="true" value=""/>
+<entry key="file_store_id" type="xstring" value="9eb868a6-3fcc-4e97-aad8-ecc3a9b8e676"/>
+</config>
+</config>
