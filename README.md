@@ -9,7 +9,6 @@ The data was then passed into a Naive Bayes classifier using a 70/30 split. and 
 We did however manage to get a tagcloud which did showcase all the keywords associated with Kashmir. 
 
 You can further see our detailed work process in the pdf file present inside the folder. 
-If you want to easily be able to see screenshots of our work and see a rundown of what we did, open up the report in the pdf format and you wont have to download it, the view will open up in your browser without hassle. 
+If you want to easily be able to see screenshots of our work and see a rundown of what we did, open up the report in the pdf format and you wont have to download it, the view will open up in your browser without hassle.
 
-Happy forking, 
-Junaid. 
+-------
